@@ -1,4 +1,4 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Amandeep Kaur](mailto:amandeep.kaur@owasp.org)
+* [Chirag Saini](mailto:chirag.saini@owasp.org)
+* [Gagandeep Sodhi](mailto:gagandeep.sodhi@owasp.org)
